@@ -1,3 +1,4 @@
 
-part of reponsive_ui_builder;
+part of 'responsive_ui_builder.dart';
+
 enum DeviceType { Mobile, Tablet, Desktop, Watch }

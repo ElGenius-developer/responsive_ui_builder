@@ -1,4 +1,4 @@
-  part of reponsive_ui_builder;
+part of 'responsive_ui_builder.dart';
   class DeviceInfo {
   final Orientation? orientation;
   final DeviceType? deviceType;
